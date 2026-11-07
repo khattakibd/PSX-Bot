@@ -1,7 +1,7 @@
 name: Daily PSX Update
 on:
   schedule:
-    - cron: '50 19 * * *' # 12:50 AM Pakistan Time (7:50 PM UTC)
+    - cron: '0 13 * * *' # 6:00 PM Pakistan Time (1:00 PM UTC)
   workflow_dispatch: 
 
 jobs:
