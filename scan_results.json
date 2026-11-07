@@ -1,36 +1,6 @@
 {
-    "ACPL": {
-        "close": 251.45,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "AKBL": {
-        "close": 116.69,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "APL": {
-        "close": 560.08,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "ATRL": {
-        "close": 982.16,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "AVN": {
-        "close": 24.27,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "BAHL": {
-        "close": 162.24,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "BOP": {
-        "close": 30.94,
+    "MCB": {
+        "close": 399.48,
         "signal": "WAIT",
         "current_stop": 0
     },
@@ -39,63 +9,13 @@
         "signal": "WAIT",
         "current_stop": 0
     },
-    "CHCC": {
-        "close": 295.44,
+    "NCPL": {
+        "close": 51.73,
         "signal": "WAIT",
         "current_stop": 0
     },
-    "CNERGY": {
-        "close": 12.1,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "COLG": {
-        "close": 1199.51,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "DGKC": {
-        "close": 200.41,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "EFERT": {
-        "close": 206.63,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "ENGRO": {
-        "close": 485.38,
-        "signal": "HOLD",
-        "current_stop": 446.5496
-    },
-    "ENGROH": {
-        "close": 272.41,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "FATIMA": {
-        "close": 144.57,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "FCCL": {
-        "close": 58.05,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "FFC": {
-        "close": 562.62,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "FFL": {
-        "close": 13.35,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "GAL": {
-        "close": 558.47,
+    "SNGP": {
+        "close": 91.96,
         "signal": "WAIT",
         "current_stop": 0
     },
@@ -104,8 +24,18 @@
         "signal": "WAIT",
         "current_stop": 0
     },
-    "GHNI": {
-        "close": 1203.68,
+    "BOP": {
+        "close": 30.94,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "UBL": {
+        "close": 425.34,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "NML": {
+        "close": 132.69,
         "signal": "WAIT",
         "current_stop": 0
     },
@@ -114,43 +44,18 @@
         "signal": "WAIT",
         "current_stop": 0
     },
-    "KOHC": {
-        "close": 93.04,
+    "ENGROH": {
+        "close": 272.41,
         "signal": "WAIT",
         "current_stop": 0
     },
-    "KTML": {
-        "close": 42.46,
+    "CNERGY": {
+        "close": 12.1,
         "signal": "WAIT",
         "current_stop": 0
     },
-    "LOTCHEM": {
-        "close": 24.43,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "LUCK": {
-        "close": 427.23,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "MARI": {
-        "close": 651.98,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "MCB": {
-        "close": 399.48,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "MEBL": {
-        "close": 550.25,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "MLCF": {
-        "close": 100.04,
+    "FFL": {
+        "close": 13.35,
         "signal": "WAIT",
         "current_stop": 0
     },
@@ -159,18 +64,98 @@
         "signal": "WAIT",
         "current_stop": 0
     },
-    "NCPL": {
-        "close": 51.73,
+    "MEBL": {
+        "close": 550.25,
         "signal": "WAIT",
         "current_stop": 0
     },
-    "NESTLE": {
-        "close": 6899.58,
+    "KOHC": {
+        "close": 93.04,
         "signal": "WAIT",
         "current_stop": 0
     },
-    "NML": {
-        "close": 132.69,
+    "DGKC": {
+        "close": 200.41,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "TRG": {
+        "close": 53.41,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "PPL": {
+        "close": 217.96,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "CHCC": {
+        "close": 295.44,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "BAHL": {
+        "close": 162.24,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "ATRL": {
+        "close": 982.16,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "THCCL": {
+        "close": 71.43,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "LOTCHEM": {
+        "close": 24.43,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "APL": {
+        "close": 560.08,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "POL": {
+        "close": 663.08,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "COLG": {
+        "close": 1199.51,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "KTML": {
+        "close": 42.46,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "PSO": {
+        "close": 355.1,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "SAZEW": {
+        "close": 1408.1,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "GHNI": {
+        "close": 1203.68,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "MLCF": {
+        "close": 100.04,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "MARI": {
+        "close": 651.98,
         "signal": "WAIT",
         "current_stop": 0
     },
@@ -184,38 +169,28 @@
         "signal": "WAIT",
         "current_stop": 0
     },
-    "POL": {
-        "close": 663.08,
+    "GAL": {
+        "close": 558.47,
         "signal": "WAIT",
         "current_stop": 0
     },
-    "PPL": {
-        "close": 217.96,
+    "NESTLE": {
+        "close": 6899.58,
         "signal": "WAIT",
         "current_stop": 0
     },
-    "PSO": {
-        "close": 355.1,
+    "UPFL": {
+        "close": 25994.0,
         "signal": "WAIT",
         "current_stop": 0
     },
-    "PTC": {
-        "close": 47.64,
-        "signal": "WAIT",
-        "current_stop": 0
+    "ENGRO": {
+        "close": 485.38,
+        "signal": "HOLD",
+        "current_stop": 446.5496
     },
-    "SAZEW": {
-        "close": 1408.1,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "SHEL": {
-        "close": 185.01,
-        "signal": "WAIT",
-        "current_stop": 0
-    },
-    "SNGP": {
-        "close": 91.96,
+    "ACPL": {
+        "close": 251.45,
         "signal": "WAIT",
         "current_stop": 0
     },
@@ -224,23 +199,48 @@
         "signal": "WAIT",
         "current_stop": 0
     },
-    "THCCL": {
-        "close": 71.43,
+    "EFERT": {
+        "close": 206.63,
         "signal": "WAIT",
         "current_stop": 0
     },
-    "TRG": {
-        "close": 53.41,
+    "AVN": {
+        "close": 24.27,
         "signal": "WAIT",
         "current_stop": 0
     },
-    "UBL": {
-        "close": 425.34,
+    "FFC": {
+        "close": 562.62,
         "signal": "WAIT",
         "current_stop": 0
     },
-    "UPFL": {
-        "close": 25994.0,
+    "FATIMA": {
+        "close": 144.57,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "LUCK": {
+        "close": 427.23,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "AKBL": {
+        "close": 116.69,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "PTC": {
+        "close": 47.64,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "SHEL": {
+        "close": 185.01,
+        "signal": "WAIT",
+        "current_stop": 0
+    },
+    "FCCL": {
+        "close": 58.05,
         "signal": "WAIT",
         "current_stop": 0
     }
