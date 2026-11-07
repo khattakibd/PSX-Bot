@@ -2,8 +2,9 @@ import pandas as pd
 import os
 import json
 
-DATA_DIR = r"C:\PSX_Bot\data"
-HISTORY_FILE = r"C:\PSX_Bot\history.json"
+DATA_DIR = "data"
+HISTORY_FILE = "history.json"
+SCAN_FILE = "scan_results.json"
 
 if os.path.exists(HISTORY_FILE):
     with open(HISTORY_FILE, "r") as f:
@@ -25,15 +26,8 @@ for file in os.listdir(DATA_DIR):
         
         try:
             df = pd.read_csv(file_path)
-            
-            # ATR Calculation
-            df['tr'] = pd.concat([
-                df['high'] - df['low'],
-                abs(df['high'] - df['close'].shift(1)),
-                abs(df['low'] - df['close'].shift(1))
-            ], axis=1).max(axis=1)
+            df['tr'] = pd.concat([df['high'] - df['low'], abs(df['high'] - df['close'].shift(1)), abs(df['low'] - df['close'].shift(1))], axis=1).max(axis=1)
             df['atr'] = df['tr'].rolling(window=14).mean()
-            
             df['box_high'] = df['high'].rolling(window=20).max().shift(1)
             df['avg_vol'] = df['volume'].rolling(window=20).mean()
             
@@ -51,11 +45,9 @@ for file in os.listdir(DATA_DIR):
             if symbol in active_trades:
                 trade = active_trades[symbol]
                 entry = trade['entry_price']
-                
                 hard_stop = entry * 0.92
                 trail_stop = today_close - (today_atr * 3.0)
                 current_stop = max(hard_stop, trail_stop)
-                
                 trade['current_stop_loss'] = current_stop
                 
                 if today_close <= current_stop:
@@ -72,29 +64,16 @@ for file in os.listdir(DATA_DIR):
             elif is_breakout and is_volume_spike:
                 signal = "BUY"
                 current_stop = today_close * 0.92 
-                
-                new_trade = {
-                    "symbol": symbol,
-                    "entry_date": today_date,
-                    "entry_price": today_close,
-                    "current_stop_loss": current_stop,
-                    "status": "OPEN"
-                }
+                new_trade = {"symbol": symbol, "entry_date": today_date, "entry_price": today_close, "current_stop_loss": current_stop, "status": "OPEN"}
                 history.append(new_trade)
                 active_trades[symbol] = new_trade
             
-            results[symbol] = {
-                "close": today_close,
-                "signal": signal,
-                "current_stop": current_stop
-            }
-            
+            results[symbol] = {"close": today_close, "signal": signal, "current_stop": current_stop}
         except Exception as e:
             pass
 
 with open(HISTORY_FILE, "w") as f:
     json.dump(history, f, indent=4)
-with open(r"C:\PSX_Bot\scan_results.json", "w") as f:
+with open(SCAN_FILE, "w") as f:
     json.dump(results, f, indent=4)
-    
 print("✅ Scan complete. Trades updated.")

@@ -2,9 +2,9 @@ import json
 import os
 from datetime import datetime
 
-SCAN_FILE = r"C:\PSX_Bot\scan_results.json"
-HISTORY_FILE = r"C:\PSX_Bot\history.json"
-OUTPUT_HTML = r"C:\PSX_Bot\index.html"
+SCAN_FILE = "scan_results.json"
+HISTORY_FILE = "history.json"
+OUTPUT_HTML = "index.html"
 
 with open(SCAN_FILE, "r") as f:
     scan_data = json.load(f)
@@ -30,20 +30,16 @@ html = f"""
         .datetime {{ text-align: center; color: #94a3b8; font-size: 14px; margin-bottom: 20px; }}
         .search-box {{ text-align: center; margin-bottom: 20px; }}
         input {{ padding: 12px; width: 90%; max-width: 400px; border-radius: 8px; border: 1px solid #334155; background-color: #1e293b; color: white; font-size: 16px; outline: none; }}
-        
         .section {{ margin-bottom: 15px; }}
         .toggle-btn {{ background-color: #1e293b; color: white; cursor: pointer; padding: 15px; width: 100%; border: none; text-align: left; outline: none; font-size: 16px; border-radius: 8px; font-weight: bold; display: flex; justify-content: space-between; }}
         .content {{ padding: 0 10px; max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out; background-color: #1e293b; border-radius: 0 0 8px 8px; }}
-        
         table {{ width: 100%; border-collapse: collapse; margin-top: 10px; margin-bottom: 10px; font-size: 13px; }}
         th, td {{ padding: 10px 4px; text-align: center; border-bottom: 1px solid #334155; }}
         th {{ color: #94a3b8; font-weight: normal; }}
-        
         .buy-btn {{ background: #22c55e; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; }}
         .hold-btn {{ background: #3b82f6; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; }}
         .exit-btn {{ background: #ef4444; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; }}
         .wait-btn {{ background: #64748b; color: white; padding: 4px 8px; border-radius: 4px; font-weight: bold; }}
-        
         .sl {{ color: #ef4444; font-weight: bold; }}
         .reason {{ font-size: 11px; color: #94a3b8; }}
     </style>
@@ -64,7 +60,6 @@ def generate_section(title, list_data, btn_class, is_history=False, is_trade=Fal
         <div class="content" id="{title}"><table>
     """
     if is_history:
-        # UPDATED: Show Reason and Entry Date
         section_html += "<tr><th>Symbol</th><th>Entry Date</th><th>Entry</th><th>Exit</th><th>Reason</th><th>PnL</th></tr>"
         for trade in list_data:
             if trade['status'] == 'CLOSED':
