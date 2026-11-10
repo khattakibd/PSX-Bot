@@ -5,5 +5,124 @@
         "entry_price": 485.38,
         "current_stop_loss": 446.5496,
         "status": "OPEN"
+    },
+    {
+        "symbol": "HBL",
+        "entry_date": "2026-11-10",
+        "entry_price": 311.41,
+        "current_stop_loss": 286.4972,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "BAHL",
+        "entry_date": "2026-11-10",
+        "entry_price": 168.7,
+        "current_stop_loss": 155.204,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "PPL",
+        "entry_date": "2026-11-10",
+        "entry_price": 227.9,
+        "current_stop_loss": 209.668,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "KOHC",
+        "entry_date": "2026-11-10",
+        "entry_price": 101.44,
+        "current_stop_loss": 93.3248,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "PIOC",
+        "entry_date": "2026-11-10",
+        "entry_price": 278.35,
+        "current_stop_loss": 256.08200000000005,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "LUCK",
+        "entry_date": "2026-11-10",
+        "entry_price": 451.11,
+        "current_stop_loss": 415.0212,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "FCCL",
+        "entry_date": "2026-11-10",
+        "entry_price": 63.61,
+        "current_stop_loss": 58.5212,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "AKBL",
+        "entry_date": "2026-11-10",
+        "entry_price": 123.96,
+        "current_stop_loss": 114.0432,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "MLCF",
+        "entry_date": "2026-11-10",
+        "entry_price": 107.27,
+        "current_stop_loss": 98.6884,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "NML",
+        "entry_date": "2026-11-10",
+        "entry_price": 136.39,
+        "current_stop_loss": 125.47879999999999,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "DGKC",
+        "entry_date": "2026-11-10",
+        "entry_price": 213.51,
+        "current_stop_loss": 196.4292,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "CHCC",
+        "entry_date": "2026-11-10",
+        "entry_price": 313.38,
+        "current_stop_loss": 288.3096,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "KTML",
+        "entry_date": "2026-11-10",
+        "entry_price": 43.25,
+        "current_stop_loss": 39.79,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "MCB",
+        "entry_date": "2026-11-10",
+        "entry_price": 411.45,
+        "current_stop_loss": 378.534,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "FATIMA",
+        "entry_date": "2026-11-10",
+        "entry_price": 150.6,
+        "current_stop_loss": 138.552,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "ENGROH",
+        "entry_date": "2026-11-10",
+        "entry_price": 278.89,
+        "current_stop_loss": 256.5788,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "NBP",
+        "entry_date": "2026-11-10",
+        "entry_price": 183.84,
+        "current_stop_loss": 169.1328,
+        "status": "OPEN"
     }
 ]
