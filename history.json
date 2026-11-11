@@ -10,7 +10,7 @@
         "symbol": "HBL",
         "entry_date": "2026-11-10",
         "entry_price": 311.41,
-        "current_stop_loss": 286.4972,
+        "current_stop_loss": 290.2792857142857,
         "status": "OPEN"
     },
     {
@@ -24,7 +24,7 @@
         "symbol": "PPL",
         "entry_date": "2026-11-10",
         "entry_price": 227.9,
-        "current_stop_loss": 209.668,
+        "current_stop_loss": 211.04214285714286,
         "status": "OPEN"
     },
     {
@@ -87,7 +87,7 @@
         "symbol": "CHCC",
         "entry_date": "2026-11-10",
         "entry_price": 313.38,
-        "current_stop_loss": 288.3096,
+        "current_stop_loss": 289.50928571428574,
         "status": "OPEN"
     },
     {
@@ -101,7 +101,7 @@
         "symbol": "MCB",
         "entry_date": "2026-11-10",
         "entry_price": 411.45,
-        "current_stop_loss": 378.534,
+        "current_stop_loss": 379.45642857142855,
         "status": "OPEN"
     },
     {
@@ -115,7 +115,7 @@
         "symbol": "ENGROH",
         "entry_date": "2026-11-10",
         "entry_price": 278.89,
-        "current_stop_loss": 256.5788,
+        "current_stop_loss": 257.72499999999997,
         "status": "OPEN"
     },
     {
@@ -123,6 +123,27 @@
         "entry_date": "2026-11-10",
         "entry_price": 183.84,
         "current_stop_loss": 169.1328,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "FFL",
+        "entry_date": "2026-11-11",
+        "entry_price": 14.73,
+        "current_stop_loss": 13.5516,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "THCCL",
+        "entry_date": "2026-11-11",
+        "entry_price": 77.23,
+        "current_stop_loss": 71.05160000000001,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "PSO",
+        "entry_date": "2026-11-11",
+        "entry_price": 374.68,
+        "current_stop_loss": 344.7056,
         "status": "OPEN"
     }
 ]
