@@ -5,67 +5,67 @@
         "current_stop": 446.5496
     },
     "LOTCHEM": {
-        "close": 24.68,
+        "close": 24.69,
         "signal": "WAIT",
         "current_stop": 0
     },
     "GHNI": {
-        "close": 1287.18,
-        "signal": "BUY",
+        "close": 1262.05,
+        "signal": "HOLD",
         "current_stop": 1184.2056
     },
     "GATM": {
-        "close": 21.29,
-        "signal": "WAIT",
-        "current_stop": 0
+        "close": 21.97,
+        "signal": "BUY",
+        "current_stop": 20.2124
     },
     "FFL": {
-        "close": 15.02,
+        "close": 14.79,
         "signal": "HOLD",
         "current_stop": 13.5516
     },
     "HBL": {
-        "close": 310.65,
+        "close": 309.43,
         "signal": "HOLD",
-        "current_stop": 288.27214285714285
+        "current_stop": 287.90285714285716
     },
     "BAHL": {
-        "close": 165.84,
+        "close": 167.43,
         "signal": "HOLD",
         "current_stop": 155.204
     },
     "PPL": {
-        "close": 221.81,
+        "close": 226.07,
         "signal": "HOLD",
-        "current_stop": 209.668
+        "current_stop": 209.855
     },
     "GAL": {
-        "close": 569.67,
+        "close": 563.09,
         "signal": "WAIT",
         "current_stop": 0
     },
     "KOHC": {
-        "close": 95.83,
+        "close": 95.94,
         "signal": "HOLD",
         "current_stop": 93.3248
     },
     "BWCL": {
-        "close": 462.98,
+        "close": 457.9,
         "signal": "WAIT",
         "current_stop": 0
     },
     "SYS": {
-        "close": 116.3,
+        "close": 114.57,
         "signal": "WAIT",
         "current_stop": 0
     },
     "THCCL": {
-        "close": 75.15,
+        "close": 73.79,
         "signal": "HOLD",
         "current_stop": 71.05160000000001
     },
     "FFC": {
-        "close": 570.19,
+        "close": 569.12,
         "signal": "WAIT",
         "current_stop": 0
     },
@@ -75,172 +75,172 @@
         "current_stop": 0
     },
     "UBL": {
-        "close": 437.23,
+        "close": 433.72,
         "signal": "WAIT",
         "current_stop": 0
     },
     "COLG": {
-        "close": 1190.88,
+        "close": 1200.68,
         "signal": "WAIT",
         "current_stop": 0
     },
     "SAZEW": {
-        "close": 1502.1,
+        "close": 1486.81,
         "signal": "WAIT",
         "current_stop": 0
     },
     "PSO": {
-        "close": 368.25,
+        "close": 368.94,
         "signal": "HOLD",
         "current_stop": 344.7056
     },
     "CNERGY": {
-        "close": 11.59,
+        "close": 11.73,
         "signal": "WAIT",
         "current_stop": 0
     },
     "PIOC": {
-        "close": 270.51,
+        "close": 271.12,
         "signal": "HOLD",
         "current_stop": 256.08200000000005
     },
     "LUCK": {
-        "close": 436.38,
+        "close": 443.04,
         "signal": "HOLD",
         "current_stop": 415.0212
     },
     "FCCL": {
-        "close": 61.54,
+        "close": 61.71,
         "signal": "HOLD",
         "current_stop": 58.5212
     },
     "BOP": {
-        "close": 31.23,
+        "close": 31.39,
         "signal": "WAIT",
         "current_stop": 0
     },
     "EFERT": {
-        "close": 210.17,
+        "close": 208.18,
         "signal": "WAIT",
         "current_stop": 0
     },
     "AKBL": {
-        "close": 118.92,
+        "close": 116.39,
         "signal": "HOLD",
         "current_stop": 114.0432
     },
     "MLCF": {
-        "close": 104.08,
+        "close": 103.93,
         "signal": "HOLD",
         "current_stop": 98.6884
     },
     "POL": {
-        "close": 670.11,
+        "close": 673.02,
         "signal": "WAIT",
         "current_stop": 0
     },
     "ATRL": {
-        "close": 954.01,
+        "close": 963.89,
         "signal": "WAIT",
         "current_stop": 0
     },
     "NESTLE": {
-        "close": 6937.22,
+        "close": 7011.35,
         "signal": "WAIT",
         "current_stop": 0
     },
     "PTC": {
-        "close": 46.85,
+        "close": 46.64,
         "signal": "WAIT",
         "current_stop": 0
     },
     "NCPL": {
-        "close": 52.77,
+        "close": 51.83,
         "signal": "WAIT",
         "current_stop": 0
     },
     "NML": {
-        "close": 132.15,
+        "close": 131.13,
         "signal": "HOLD",
         "current_stop": 125.47879999999999
     },
     "ACPL": {
-        "close": 267.05,
+        "close": 267.61,
         "signal": "WAIT",
         "current_stop": 0
     },
     "OGDC": {
-        "close": 313.39,
+        "close": 315.87,
         "signal": "WAIT",
         "current_stop": 0
     },
     "SNGP": {
-        "close": 93.68,
+        "close": 93.95,
         "signal": "WAIT",
         "current_stop": 0
     },
     "APL": {
-        "close": 565.46,
+        "close": 570.84,
         "signal": "WAIT",
         "current_stop": 0
     },
     "UPFL": {
-        "close": 26299.98,
+        "close": 26457.91,
         "signal": "WAIT",
         "current_stop": 0
     },
     "DGKC": {
-        "close": 206.37,
+        "close": 204.07,
         "signal": "HOLD",
         "current_stop": 196.4292
     },
     "CHCC": {
-        "close": 303.11,
+        "close": 302.06,
         "signal": "HOLD",
         "current_stop": 288.3096
     },
     "MEBL": {
-        "close": 558.18,
+        "close": 556.25,
         "signal": "WAIT",
         "current_stop": 0
     },
     "KTML": {
-        "close": 41.33,
+        "close": 40.79,
         "signal": "HOLD",
         "current_stop": 39.79
     },
     "MARI": {
-        "close": 680.06,
-        "signal": "BUY",
-        "current_stop": 625.6551999999999
+        "close": 719.3,
+        "signal": "HOLD",
+        "current_stop": 663.7678571428571
     },
     "MCB": {
-        "close": 406.56,
+        "close": 409.12,
         "signal": "HOLD",
-        "current_stop": 378.534
+        "current_stop": 380.49571428571426
     },
     "FATIMA": {
-        "close": 146.33,
+        "close": 152.86,
         "signal": "HOLD",
         "current_stop": 138.552
     },
     "ENGROH": {
-        "close": 276.89,
+        "close": 277.45,
         "signal": "HOLD",
-        "current_stop": 256.5788
+        "current_stop": 257.32
     },
     "NBP": {
-        "close": 175.28,
+        "close": 173.32,
         "signal": "HOLD",
         "current_stop": 169.1328
     },
     "AVN": {
-        "close": 25.14,
+        "close": 27.65,
         "signal": "WAIT",
         "current_stop": 0
     },
     "TRG": {
-        "close": 53.44,
+        "close": 53.33,
         "signal": "WAIT",
         "current_stop": 0
     }

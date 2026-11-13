@@ -10,7 +10,7 @@
         "symbol": "HBL",
         "entry_date": "2026-11-10",
         "entry_price": 311.41,
-        "current_stop_loss": 288.27214285714285,
+        "current_stop_loss": 287.90285714285716,
         "status": "OPEN"
     },
     {
@@ -24,7 +24,7 @@
         "symbol": "PPL",
         "entry_date": "2026-11-10",
         "entry_price": 227.9,
-        "current_stop_loss": 209.668,
+        "current_stop_loss": 209.855,
         "status": "OPEN"
     },
     {
@@ -101,7 +101,7 @@
         "symbol": "MCB",
         "entry_date": "2026-11-10",
         "entry_price": 411.45,
-        "current_stop_loss": 378.534,
+        "current_stop_loss": 380.49571428571426,
         "status": "OPEN"
     },
     {
@@ -115,7 +115,7 @@
         "symbol": "ENGROH",
         "entry_date": "2026-11-10",
         "entry_price": 278.89,
-        "current_stop_loss": 256.5788,
+        "current_stop_loss": 257.32,
         "status": "OPEN"
     },
     {
@@ -157,7 +157,14 @@
         "symbol": "MARI",
         "entry_date": "2026-11-12",
         "entry_price": 680.06,
-        "current_stop_loss": 625.6551999999999,
+        "current_stop_loss": 663.7678571428571,
+        "status": "OPEN"
+    },
+    {
+        "symbol": "GATM",
+        "entry_date": "2026-11-13",
+        "entry_price": 21.97,
+        "current_stop_loss": 20.2124,
         "status": "OPEN"
     }
 ]
