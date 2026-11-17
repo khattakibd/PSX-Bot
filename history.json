@@ -17,14 +17,14 @@
         "symbol": "BAHL",
         "entry_date": "2026-11-10",
         "entry_price": 168.7,
-        "current_stop_loss": 155.204,
+        "current_stop_loss": 156.25857142857143,
         "status": "OPEN"
     },
     {
         "symbol": "PPL",
         "entry_date": "2026-11-10",
         "entry_price": 227.9,
-        "current_stop_loss": 211.07285714285712,
+        "current_stop_loss": 209.668,
         "status": "OPEN"
     },
     {
@@ -101,7 +101,7 @@
         "symbol": "MCB",
         "entry_date": "2026-11-10",
         "entry_price": 411.45,
-        "current_stop_loss": 382.06357142857144,
+        "current_stop_loss": 378.534,
         "status": "OPEN"
     },
     {
@@ -115,7 +115,7 @@
         "symbol": "ENGROH",
         "entry_date": "2026-11-10",
         "entry_price": 278.89,
-        "current_stop_loss": 260.16,
+        "current_stop_loss": 256.5788,
         "status": "OPEN"
     },
     {
@@ -157,7 +157,7 @@
         "symbol": "MARI",
         "entry_date": "2026-11-12",
         "entry_price": 680.06,
-        "current_stop_loss": 675.9942857142858,
+        "current_stop_loss": 661.03,
         "status": "OPEN"
     },
     {
