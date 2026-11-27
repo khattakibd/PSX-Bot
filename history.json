@@ -10,14 +10,14 @@
         "symbol": "HBL",
         "entry_date": "2026-11-10",
         "entry_price": 311.41,
-        "current_stop_loss": 286.4972,
+        "current_stop_loss": 289.0492857142857,
         "status": "OPEN"
     },
     {
         "symbol": "BAHL",
         "entry_date": "2026-11-10",
         "entry_price": 168.7,
-        "current_stop_loss": 155.40285714285713,
+        "current_stop_loss": 160.18285714285713,
         "status": "OPEN"
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "PIOC",
         "entry_date": "2026-11-10",
         "entry_price": 278.35,
-        "current_stop_loss": 256.20214285714286,
+        "current_stop_loss": 259.66714285714284,
         "status": "OPEN"
     },
     {
@@ -101,7 +101,7 @@
         "symbol": "MCB",
         "entry_date": "2026-11-10",
         "entry_price": 411.45,
-        "current_stop_loss": 384.7978571428572,
+        "current_stop_loss": 389.12857142857143,
         "status": "OPEN"
     },
     {
@@ -115,7 +115,7 @@
         "symbol": "ENGROH",
         "entry_date": "2026-11-10",
         "entry_price": 278.89,
-        "current_stop_loss": 279.1557142857143,
+        "current_stop_loss": 277.4114285714286,
         "status": "OPEN"
     },
     {
@@ -151,27 +151,31 @@
         "entry_date": "2026-11-12",
         "entry_price": 1287.18,
         "current_stop_loss": 1184.2056,
-        "status": "OPEN"
+        "status": "CLOSED",
+        "exit_price": 1183.27,
+        "exit_date": "2026-11-27",
+        "exit_reason": "Hit Trailing Stop at 1184.21",
+        "pnl": -8.072686026818323
     },
     {
         "symbol": "MARI",
         "entry_date": "2026-11-12",
         "entry_price": 680.06,
-        "current_stop_loss": 660.0371428571428,
+        "current_stop_loss": 656.0128571428571,
         "status": "OPEN"
     },
     {
         "symbol": "GATM",
         "entry_date": "2026-11-13",
         "entry_price": 21.97,
-        "current_stop_loss": 20.2124,
+        "current_stop_loss": 20.67642857142857,
         "status": "OPEN"
     },
     {
         "symbol": "EFERT",
         "entry_date": "2026-11-18",
         "entry_price": 215.43,
-        "current_stop_loss": 201.40785714285715,
+        "current_stop_loss": 207.1457142857143,
         "status": "OPEN"
     },
     {
